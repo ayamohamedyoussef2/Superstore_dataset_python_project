@@ -61,15 +61,14 @@ The analysis investigates:
 
 Power BI Dashboard
 
-Provides a high-level overview using:
-Total Sales
-Order Count
-Profit Margin
-Total Quantity
-Sales and Profit by Subcategory
-Profit by Shipment Mode
-Interactive filters
-Top 5 Products by Revenue
+Provides a high-level overview using interactive filters to show:
+Total Sales,
+Order Count,
+Profit Margin,
+Total Quantity,
+Sales and Profit by Subcategory,
+Profit by Shipment Mode,
+Top 5 Products by Revenue and
 sales per order by customer segment
 
 Key Outcome
