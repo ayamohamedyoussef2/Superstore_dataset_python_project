@@ -5,15 +5,20 @@ Aya mohamed,
 Farah khaled 
 
 Project Overview
+
 This project analyzes the Superstore dataset to identify key patterns in sales, profitability, products, customers, shipping, discounts, and geographical performance.
 The project combines Python for data cleaning and analysis with Power BI for interactive business dashboards.
 
 Tools Used
+
 Python — Data cleaning, transformation, and analysis
+
 Pandas — Data manipulation and aggregation
+
 Power BI — Interactive dashboards and business intelligence
 
 Data Preparation
+
 The dataset was cleaned and transformed before analysis. The project includes the following derived fields:
 Shipping Day Delay
 Discount Level
