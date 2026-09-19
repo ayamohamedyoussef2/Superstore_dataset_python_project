@@ -11,10 +11,8 @@ The project combines Python for data cleaning and analysis with Power BI for int
 
 Tools Used
 
-Python — Data cleaning, transformation, and analysis
-
-Pandas — Data manipulation and aggregation
-
+Python — Data cleaning, transformation, and analysis  
+Pandas — Data manipulation and aggregation 
 Power BI — Interactive dashboards and business intelligence
 
 Data Preparation
@@ -62,6 +60,7 @@ The analysis investigates:
 
 
 Power BI Dashboard
+
 Provides a high-level overview using:
 Total Sales
 Order Count
@@ -74,4 +73,5 @@ Top 5 Products by Revenue
 sales per order by customer segment
 
 Key Outcome
+
 The project demonstrates how raw transactional data can be transformed into meaningful business insights through data preparation, exploratory analysis, visualization, and interactive business intelligence reporting.
