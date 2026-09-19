@@ -12,7 +12,7 @@ The project combines Python for data cleaning and analysis with Power BI for int
 Tools Used
 
 Python — Data cleaning, transformation, and analysis  
-Pandas — Data manipulation and aggregation 
+Pandas — Data manipulation and aggregation  
 Power BI — Interactive dashboards and business intelligence
 
 Data Preparation
